@@ -1,5 +1,7 @@
 # world_time
 
+![clock_gif](https://media.giphy.com/media/3o7ZeoNm8HqZz07EUE/giphy.gif)
+
 A new Flutter project that implements a world clock with the following locations supported for now:
 1. Cairo
 2. London
